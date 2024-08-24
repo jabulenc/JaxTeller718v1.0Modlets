@@ -1,0 +1,17 @@
+<JaxTeller718>
+	<append xpath="/lootcontainers/lootgroup[@name='groupFoodTrashCommon']">
+		<item name="drinkBowlEmptyJT" count="1,3" loot_prob_template="veryLow"/>
+		<item name="drinkJarEmptyJT" count="1,3" loot_prob_template="medLow"/>
+	</append>
+	<append xpath="/lootcontainers/lootgroup[@name='groupDishwasherJunk']">
+		<item name="drinkBowlEmptyJT" count="1,3" loot_prob_template="low"/>
+		<item name="drinkJarEmptyJT" count="1,3" loot_prob_template="low"/>
+	</append>
+	<append xpath="/lootcontainers/lootgroup[@name='groupOven01']">
+		<item name="drinkBowlEmptyJT" count="1,3" loot_prob_template="veryLow"/>
+	</append>
+	<append xpath="/lootcontainers/lootgroup[@name='groupCupboard01']">
+		<item name="drinkBowlEmptyJT" count="1,3" loot_prob_template="low"/>
+		<item name="drinkJarEmptyJT" count="1,2" loot_prob_template="medLow"/>
+	</append>
+</JaxTeller718>

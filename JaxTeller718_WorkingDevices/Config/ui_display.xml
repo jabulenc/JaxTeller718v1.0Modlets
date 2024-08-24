@@ -1,0 +1,64 @@
+<JaxTeller718>
+	<append xpath="/ui_display_info/crafting_category_display">
+		<crafting_category_list display_type="workingWallOvenWhiteJT">
+			<crafting_category name="CFFood/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFood" />
+			<crafting_category name="CFDrink/Cooking" icon="ui_game_symbol_thirst" display_name="lblCategoryDrink"/>
+			<crafting_category name="Chemicals" icon="ui_game_symbol_chemistry" display_name="lblCategoryChemicals"/>
+		</crafting_category_list>
+		<crafting_category_list display_type="workingWallOvenGreyJT">
+			<crafting_category name="CFFood/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFood" />
+			<crafting_category name="CFDrink/Cooking" icon="ui_game_symbol_thirst" display_name="lblCategoryDrink"/>
+			<crafting_category name="Chemicals" icon="ui_game_symbol_chemistry" display_name="lblCategoryChemicals"/>
+		</crafting_category_list>
+		<crafting_category_list display_type="workingWallOvenBlackJT">
+			<crafting_category name="CFFood/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFood" />
+			<crafting_category name="CFDrink/Cooking" icon="ui_game_symbol_thirst" display_name="lblCategoryDrink"/>
+			<crafting_category name="Chemicals" icon="ui_game_symbol_chemistry" display_name="lblCategoryChemicals"/>
+		</crafting_category_list>
+		<crafting_category_list display_type="workingWoodBurningStoveJT">
+			<crafting_category name="CFFood/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFood" />
+			<crafting_category name="CFDrink/Cooking" icon="ui_game_symbol_thirst" display_name="lblCategoryDrink"/>
+			<crafting_category name="Chemicals" icon="ui_game_symbol_chemistry" display_name="lblCategoryChemicals"/>
+		</crafting_category_list>
+		<crafting_category_list display_type="workingStoveOldJT">
+			<crafting_category name="CFFood/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFood" />
+			<crafting_category name="CFDrink/Cooking" icon="ui_game_symbol_thirst" display_name="lblCategoryDrink"/>
+			<crafting_category name="Chemicals" icon="ui_game_symbol_chemistry" display_name="lblCategoryChemicals"/>
+		</crafting_category_list>
+		<crafting_category_list display_type="workingStoveModernJT">
+			<crafting_category name="CFFood/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFood" />
+			<crafting_category name="CFDrink/Cooking" icon="ui_game_symbol_thirst" display_name="lblCategoryDrink"/>
+			<crafting_category name="Chemicals" icon="ui_game_symbol_chemistry" display_name="lblCategoryChemicals"/>
+		</crafting_category_list>
+		<crafting_category_list display_type="workingGasRangeWhiteJT">
+			<crafting_category name="CFFood/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFood" />
+			<crafting_category name="CFDrink/Cooking" icon="ui_game_symbol_thirst" display_name="lblCategoryDrink"/>
+			<crafting_category name="Chemicals" icon="ui_game_symbol_chemistry" display_name="lblCategoryChemicals"/>
+		</crafting_category_list>
+		<crafting_category_list display_type="workingGasRangeGreyJT">
+			<crafting_category name="CFFood/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFood" />
+			<crafting_category name="CFDrink/Cooking" icon="ui_game_symbol_thirst" display_name="lblCategoryDrink"/>
+			<crafting_category name="Chemicals" icon="ui_game_symbol_chemistry" display_name="lblCategoryChemicals"/>
+		</crafting_category_list>
+		<crafting_category_list display_type="workingGasRangeBlackJT">
+			<crafting_category name="CFFood/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFood" />
+			<crafting_category name="CFDrink/Cooking" icon="ui_game_symbol_thirst" display_name="lblCategoryDrink"/>
+			<crafting_category name="Chemicals" icon="ui_game_symbol_chemistry" display_name="lblCategoryChemicals"/>
+		</crafting_category_list>
+		<crafting_category_list display_type="workingGasGrillClosedJT">
+			<crafting_category name="CFFood/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFood" />
+		</crafting_category_list>
+		<crafting_category_list display_type="workingCharcoalGrillClosedJT">
+			<crafting_category name="CFFood/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFood" />
+		</crafting_category_list>
+		<crafting_category_list display_type="coffeeMakerJT">
+			<crafting_category name="CFDrink/Cooking" icon="ui_game_symbol_thirst" display_name="lblCategoryDrink"/>
+		</crafting_category_list>
+		<crafting_category_list display_type="coffeeMakerCommercialJT">
+			<crafting_category name="CFDrink/Cooking" icon="ui_game_symbol_thirst" display_name="lblCategoryDrink"/>
+		</crafting_category_list>
+		<crafting_category_list display_type="workingMicrowaveJT">
+			<crafting_category name="CFFood/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFood" />
+		</crafting_category_list>
+	</append>
+</JaxTeller718>
