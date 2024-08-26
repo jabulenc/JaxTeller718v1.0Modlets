@@ -442,6 +442,7 @@
 			<property name="CreativeMode" value="Player"/>
 			<property name="Shape" value="ModelEntity"/>
 			<property name="Model" value="Entities/Appliances/coffeeMakerPrefab"/>
+			<property name="ModelOffset" value="0,0,0"/>
 			<property name="StabilitySupport" value="false"/>
 			<property name="Path" value="solid"/>
 			<property name="Place" value="TowardsPlacerInverted"/>
@@ -502,6 +503,7 @@
 			<property name="Stacknumber" value="1"/>
 			<property name="Shape" value="ModelEntity"/>
 			<property name="Model" value="Entities/Appliances/coffeeMakerPrefab"/>
+			<property name="ModelOffset" value="0,0,0.5"/>
 			<property name="StabilitySupport" value="false"/>
 			<property name="Path" value="solid"/>
 			<property name="Place" value="TowardsPlacerInverted"/>
@@ -540,6 +542,7 @@
 			<property name="Stacknumber" value="1"/>
 			<property name="Shape" value="ModelEntity"/>
 			<property name="Model" value="Entities/Appliances/commercialCoffeeMakerPrefab"/>
+			<property name="ModelOffset" value="0,0,0"/>
 			<property name="StabilitySupport" value="false"/>
 			<property name="Path" value="solid"/>
 			<property name="Place" value="TowardsPlacerInverted"/>
