@@ -1,9 +1,12 @@
 <JaxTeller718>
 
+	<!-- Forests -->
+	<!-- Removal -->
 	<remove xpath="/spawning/biome[@name='pine_forest']/spawn" />
 
 	<!-- Addition -->
 	<append xpath="/spawning/biome[@name='pine_forest']">
+
 		<spawn id="dz00" maxcount="1" respawndelay="2" time="Day" entitygroup="ZombiesAll" tags="wilderness"/>
 		<spawn id="nz00" maxcount="1" respawndelay="1" time="Night" entitygroup="ZombiesNight" tags="wilderness"/>
 
@@ -19,6 +22,7 @@
 		<spawn id="aa01" maxcount="2" respawndelay="1" time="Any" entitygroup="WildGameForest" spawnDeadChance="0" />
 		<spawn id="na01" maxcount="1" respawndelay="1" time="Night" entitygroup="WildGameForestNight" spawnDeadChance="0" />
 		<spawn id="ne01" maxcount="1" respawndelay="3.2" time="Night" entitygroup="EnemyAnimalsForest" spawnDeadChance="0" />
+		
 	</append>
 
 	<!-- Desert -->
